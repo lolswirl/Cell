@@ -442,6 +442,10 @@ local debuffs = {
             -- 1223725, -- 邪能地狱 - Fel Inferno
             1222307, -- 吞噬 - Consume
             -1245384, -- 邪能地狱 - Fel Inferno
+            -- 1223624, -- Sigil of Chains
+            -1242304, -- Expulsed Soul
+            -- 1242883, -- Soul Tether
+            -1247415, -- Weakened Pray
         },
         [2747] = { -- 弗兰克提鲁斯 - Fractillus
             "1233411", -- 结晶震荡波(点名) - Crystalline Shockwave
