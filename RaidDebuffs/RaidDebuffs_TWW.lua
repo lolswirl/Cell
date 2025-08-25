@@ -415,6 +415,10 @@ local debuffs = {
             -1232775, -- 奥术抹消
             -1228219, -- 星界印记(易伤)
             -1233076, -- 黑暗奇点 - Dark Singularity
+            1233074, -- Crushing Darkness
+            1236207, -- Astral Surge
+            1243641, -- Void Surge
+            1248171, -- Void Tear
         },
         [2688] = { -- 狩魂猎手 - The Soul Hunters
             1227847, -- 恶魔追击 - The Hunt
