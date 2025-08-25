@@ -443,6 +443,8 @@ local debuffs = {
             "1233411", -- 结晶震荡波(点名) - Crystalline Shockwave
             1227373, -- 碎壳 - Shattershell
             1227378, -- 水晶覆体 - Crystal Encasement
+            1231871, -- Shockwave Slam
+            1232760, -- Crystal Lacerations
             1247424, -- 虚无吞噬 - Null Consumption
             1231871, -- 震波猛击(T) - Shockwave Slam
             "1224414", -- 结晶震荡波 - Crystalline Shockwave
